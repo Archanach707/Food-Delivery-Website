@@ -104,3 +104,44 @@ font-family: 'Baloo 2', cursive;
   font-size: 3.8rem;
   padding: 15px;
 }
+
+.h-secondary {
+  
+}
+
+.center {
+
+}
+
+.btn {
+  padding: 6px 20px;
+  border: 2px solid #3b2828;
+  background-color: brown;
+  color: #fff;
+  margin: 20px;
+  font-size: 1.5rem;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+/* services-container */
+.services-container {
+
+}
+
+.services {
+
+}
+
+.box {
+
+}
+
+
+
+
+
+
+
+
+
